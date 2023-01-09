@@ -1,15 +1,15 @@
 # Ultraviolet
 Ultraviolet application
 
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/hyper-hacker/ultraviolet-node)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/hyper-hacker/ultraviolet-node)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Sincereham222/Ultraviolet-TotallySchoology)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Sincereham222/Ultraviolet-TotallySchoology)
 
 # Steps
 Installing on machine
 
 ```
-git clone https://github.com/hyper-hacker/ultraviolet-node/
-cd ultraviolet-node
+git clone https://github.com/Sincereham222/Ultraviolet-TotallySchoology
+cd Ultraviolet-TotallySchoology
 git submodule update --init
 npm install
 npm install tomphttp/bare-server-node
