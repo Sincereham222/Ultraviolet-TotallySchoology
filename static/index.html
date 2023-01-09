@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <SCRIPT language="JavaScript">
+            var password;
+            var pass1 = "daddyandy";
+            password = prompt('Enter Password', ' ');
+            if(password == pass1) alert('Correct Password! Click OK to Enter!');
+            else {
+                alert('Incorrect Password');
+                location.replace("./error.html")
+                        }
+        </SCRIPT>
+        <title>Home | Schoology</title>
+        <link rel="icon" href="./images/logo.png">
+        <link href="index.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="logo-wrapper">
+            <img class="logo" src="./uv.png" alt="" />
+        </div>
+        <form>
+            <input placeholder="Search the web">
+        </form>
+        <footer>
+           <p id="footer">School is Gae</p>
+        </footer>
+        <script src="uv/uv.bundle.js"></script>
+        <script src="uv/uv.config.js"></script>
+        <script src="index.js"></script>
+    </body>
+</html>
