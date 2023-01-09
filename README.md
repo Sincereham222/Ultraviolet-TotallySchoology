@@ -1,5 +1,5 @@
-# Ultraviolet
-Ultraviolet application
+# TotallySchoology
+TotallySchoology application
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Sincereham222/Ultraviolet-TotallySchoology)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Sincereham222/Ultraviolet-TotallySchoology)
