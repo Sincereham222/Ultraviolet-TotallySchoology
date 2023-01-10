@@ -37,14 +37,12 @@ footer {
     align-self: center;
     height: 60px;
     display: flex;
-    justify-content: left;
-    align-items: center;
     color: #FFF;
     background-color: rgb(46, 46, 46);
 }
 
 footer a , footer span {
-    margin: 0 15px;
+    margin: auto 15px;
     text-decoration: none;
     color: #FFF;
     font-size: 15px;
@@ -60,12 +58,16 @@ footer a:hover {
 }
 
 form {
+    margin: auto;
     display: flex;
     justify-content: center;
-    padding-left: 21.5%;
+    text-align:center;
+    margin-bottom: 4px;
 }
 
+
 form input {
+    text-align:center;
     background: none;
     font-family: inherit;
     padding: 0px 17px;
@@ -82,5 +84,12 @@ form input {
 
 #center-header{
     align-self: center;
+}
 
+#Discord{
+    margin-left: 10%;
+}
+
+#Github{
+    margin-right: 11%;
 }
