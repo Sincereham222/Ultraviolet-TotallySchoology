@@ -22,7 +22,8 @@ body {
 }
 
 .logo {
-    width: 150px;
+  margin-top: 5%;  
+  width: 150px;
 }
 
 .logo-wrapper .text {
@@ -41,8 +42,7 @@ footer {
     background-color: rgb(46, 46, 46);
 }
 
-footer a , footer span {
-    margin: auto 15px;
+footer a {
     text-decoration: none;
     color: #FFF;
     font-size: 15px;
@@ -54,7 +54,7 @@ footer a {
 
 
 footer a:hover {
-    text-decoration: underline;
+    text-decoration: bold;
 }
 
 form {
@@ -62,7 +62,7 @@ form {
     display: flex;
     justify-content: center;
     text-align:center;
-    margin-bottom: 4px;
+    margin-bottom: auto;
 }
 
 
@@ -83,13 +83,23 @@ form input {
 }
 
 #center-header{
-    align-self: center;
+  align-self: center;
+  color:white
 }
 
-#Discord{
-    margin-left: 10%;
+.footer-buttons{
+  margin-top: 10px;
+  display:inline-block;
+  padding: 10px;
+  padding-top: 10px;
 }
 
 #Github{
-    margin-right: 11%;
+  margin-left: 40%;
 }
+#Discord{
+  margin-right: 40%;
+}
+
+
+
