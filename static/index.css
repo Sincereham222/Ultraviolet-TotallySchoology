@@ -101,7 +101,23 @@ form input {
 
 #Github{
   margin-left: 30%;
+  transition: color 0.3s ease;
+}
+#Github:hover{
+  color:orangered;
 }
 #Discord{
   margin-right: 30%;
+  transition: color 0.3s ease;
+}
+#Discord:hover{
+  color:orangered;
+}
+#GPT{
+  margin-left: 50px;
+  margin-right: 50px;
+  transition: color 0.3s ease;
+}
+#GPT:hover{
+  color:orangered;
 }
