@@ -12,7 +12,7 @@
   }
   
   .loading-spinner {
-    border: 16px solid rgb(46,46,46,);
+    border: 16px solid #2e2e2e ;
     border-top: 16px solid #8bd3f1;
     border-radius: 50%;
     width: 120px;
